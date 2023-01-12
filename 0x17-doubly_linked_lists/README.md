@@ -18,5 +18,5 @@
 
 ### Advanced
 - [ ] Task 9
-- [ ] Task 10
+- [x] Task 10
 - [ ] Task 11
