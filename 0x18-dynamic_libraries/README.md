@@ -7,7 +7,7 @@
 ## Tasks
 ### Mandatory
 - [x] Task 0
-- [ ] Task 1
+- [x] Task 1
 
 ### Advanced
 - [ ] Task 2
