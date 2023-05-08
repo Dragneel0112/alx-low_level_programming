@@ -18,7 +18,7 @@
 | <ul><li> - [x] Task 3 </li></ul> | 3. Big O #1 | [3-O](3-O) |
 | <ul><li> - [x] Task 4 </li></ul> | 4. Big O #2 | [4-O](4-O) |
 | <ul><li> - [x] Task 5 </li></ul> | 5. Big O #3 | [5-O](5-O) |
-| <ul><li> - [ ] Task 6 </li></ul> | 6. Big O #4 | [6-O](6-O) |
+| <ul><li> - [x] Task 6 </li></ul> | 6. Big O #4 | [6-O](6-O) |
 
 ### Advanced
 
