@@ -14,7 +14,7 @@
 | ----- | ----- | ----- |
 | <ul><li> - [x] Task 0 </li></ul> | 0. Linear search | [0-linear.c](0-linear.c) |
 | <ul><li> - [x] Task 1 </li></ul> | 1. Binary search | [1-binary.c](1-binary.c) |
-| <ul><li> - [ ] Task 2 </li></ul> | 2. Big O #0 | [2-O](2-O) |
+| <ul><li> - [x] Task 2 </li></ul> | 2. Big O #0 | [2-O](2-O) |
 | <ul><li> - [ ] Task 3 </li></ul> | 3. Big O #1 | [3-O](3-O) |
 | <ul><li> - [ ] Task 4 </li></ul> | 4. Big O #2 | [4-O](4-O) |
 | <ul><li> - [ ] Task 5 </li></ul> | 5. Big O #3 | [5-O](5-O) |
