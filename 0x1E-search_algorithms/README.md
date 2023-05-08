@@ -32,4 +32,4 @@
 | <ul><li> - [ ] Task 12 </li></ul> | 12. Jump search in a singly linked list | [105-jump_list.c](105-jump_list.c) |
 | <ul><li> - [ ] Task 13 </li></ul> | 13. Linear search in a skip list | [106-linear_skip.c](106-linear_skip.c) |
 | <ul><li> - [x] Task 14 </li></ul> | 14. Big O #6 | [107-O](107-O) |
-| <ul><li> - [ ] Task 15 </li></ul> | 15. Big O #7 | [108-O](108-O) |
+| <ul><li> - [x] Task 15 </li></ul> | 15. Big O #7 | [108-O](108-O) |
