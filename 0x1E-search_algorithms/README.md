@@ -27,7 +27,7 @@
 | <ul><li> - [x] Task 7 </li></ul> | 7. Jump search | [100-jump.c](100-jump.c) |
 | <ul><li> - [x] Task 8 </li></ul> | 8. Big O #5 | [101-O](101-O) |
 | <ul><li> - [x] Task 9 </li></ul> | 9. Interpolation search | [102-interpolation.c](102-interpolation.c) |
-| <ul><li> - [ ] Task 10 </li></ul> | 10. Exponential search | [103-exponential.c](103-exponential.c) |
+| <ul><li> - [x] Task 10 </li></ul> | 10. Exponential search | [103-exponential.c](103-exponential.c) |
 | <ul><li> - [ ] Task 11 </li></ul> | 11. Advanced binary search | [104-advanced_binary.c](104-advanced_binary.c) |
 | <ul><li> - [ ] Task 12 </li></ul> | 12. Jump search in a singly linked list | [105-jump_list.c](105-jump_list.c) |
 | <ul><li> - [ ] Task 13 </li></ul> | 13. Linear search in a skip list | [106-linear_skip.c](106-linear_skip.c) |
