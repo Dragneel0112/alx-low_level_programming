@@ -24,7 +24,7 @@
 
 | Tasks | Description | Files |
 | ----- | ----- | ----- |
-| <ul><li> - [ ] Task 7 </li></ul> | 7. Jump search | [100-jump.c](100-jump.c) |
+| <ul><li> - [x] Task 7 </li></ul> | 7. Jump search | [100-jump.c](100-jump.c) |
 | <ul><li> - [x] Task 8 </li></ul> | 8. Big O #5 | [101-O](101-O) |
 | <ul><li> - [ ] Task 9 </li></ul> | 9. Interpolation search | [102-interpolation.c](102-interpolation.c) |
 | <ul><li> - [ ] Task 10 </li></ul> | 10. Exponential search | [103-exponential.c](103-exponential.c) |
